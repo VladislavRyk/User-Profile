@@ -1,6 +1,4 @@
-user_profile = {
-
-}
+user_profile = {}
 
 user_profile["name"] = input("Enter your name:")
 user_profile["age"] = int(input("Enter your age:"))
